@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ria:home|Door43 (ria)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ria|d43-ria repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ria/archive/master.zip|d43-ria.zip]]
+
+**Recent Changes**
+{{changes>ns = ria}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ria|Ethnologue data]]
+
